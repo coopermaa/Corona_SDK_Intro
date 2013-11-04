@@ -1,0 +1,14 @@
+settings =
+{
+	iphone =
+	{
+		plist =
+		{
+			UIAppFonts =
+			{
+				"fonts/DS-DIGI.ttf"
+			},
+			UIApplicationExitsOnSuspend = true
+		}
+	}
+}	

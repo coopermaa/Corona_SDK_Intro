@@ -1,0 +1,13 @@
+-- build.settings
+settings =
+{
+    plugins =
+    {
+        -- key is the name passed to Lua's 'require()'
+        ["CoronaProvider.ads.admob"] =
+        {
+            -- required
+            publisherId = "com.coronalabs",
+        },
+    },      
+}
